@@ -1,0 +1,13 @@
+.ciencia {
+  --diametro: 100px;
+
+  width: var(--diametro);
+  height: var(--diametro);
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+
+  padding: 10px;
+  margin: 20px auto;
+
+  border-radius: 10px;
+}
